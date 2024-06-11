@@ -1,0 +1,17 @@
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\bin\Debug\net8.0-windows\proyecto de calculadora.exe
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\bin\Debug\net8.0-windows\proyecto de calculadora.deps.json
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\bin\Debug\net8.0-windows\proyecto de calculadora.runtimeconfig.json
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\bin\Debug\net8.0-windows\proyecto de calculadora.dll
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\bin\Debug\net8.0-windows\proyecto de calculadora.pdb
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\proyecto_de_calculadora.Form1.resources
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\proyecto de calculadora.csproj.GenerateResource.cache
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\proyecto de calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\proyecto de calculadora.AssemblyInfoInputs.cache
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\proyecto de calculadora.AssemblyInfo.cs
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\proyecto de calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\proyecto de calculadora.dll
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\refint\proyecto de calculadora.dll
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\proyecto de calculadora.pdb
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\proyecto de calculadora.genruntimeconfig.cache
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\ref\proyecto de calculadora.dll
+C:\Users\ThecnoMacVZLA\Documents\lenguajes de programacion\proyecto de calculadora\proyecto de calculadora\obj\Debug\net8.0-windows\proyecto_de_calculadora.Properties.Resources.resources
